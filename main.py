@@ -13,8 +13,8 @@ ACCESS_TOKEN_URL = 'https://api.twitter.com/oauth/access_token'
 #LISTS_LIST_URL = 'https://api.twitter.com/1.1/lists/list.json?screen_name=ceeflyer'
 LISTS_STATUSES_URL = 'https://api.twitter.com/1.1/lists/statuses.json?list_id=738212830285946880&count=20'
 
-CONSUMER_KEY='2obWL9WLQLobUOqtwzBrPoGHD'
-CONSUMER_SECRET='wevyRd9x2m3Mcu7ECMj045g6xJbXBfKRfC1rCIqEEat4UlG5pR'
+CONSUMER_KEY='xxx'
+CONSUMER_SECRET='xxx'
 
 # Set up oauth
 oauth = OAuth1Session(CONSUMER_KEY, client_secret=CONSUMER_SECRET, 
